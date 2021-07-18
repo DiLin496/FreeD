@@ -1,20 +1,21 @@
 {
   "data": [
-    {
-      "name": "94神马(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+        {
+      "name": "南柯电影(自制)",
+      "pic": "http://pic5.iqiyipic.com/image/20210218/1d/8e/a_100430302_m_601_m3_260_360.jpg",
+       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
-      "subTitle": "高清无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清无筛选",
+      "subTitle": "高清有筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清有筛选",
       "ads": "",
-      "webUrl": "http://www.9rmb.com",
+      "webUrl": "https://nkdyw.com/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "http://www.9rmb.com/search?wd={kw}",
-        "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
-        "cate_url": "http://1090ys1.com/whole/cateNav_cateArea_cateCate__cateYear___0_id_catePage.html",
-        "web_name": "94神马",
+        "search_url": "https://nkdyw.com/ss/{kw}-------------/",
+        "nav_url": "https://nkdyw.com/vodshow/navCate--hits------navPage---/",
+        "cate_url": "https://www.shenma4480.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "南柯",
         "kw": "wd",
         "params": [
           {
@@ -24,390 +25,27 @@
         ],
         "navHtml": {
           "name": [
-            "电影",
-            "电视剧",
-            "动漫",
-            "综艺"
+              "电影",
+              "连续剧",
+              "动漫",
+              "综艺"
           ],
           "cate": [
-            "1",
-            "2",
-            "7",
-            "4"
+              "1",
+              "2",
+              "4",
+              "3"
           ],
           "page": "1"
         },
-        "cateHtml": {},
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "ul > li",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.panel.panel-default.resource-list",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "button.hdtag",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "src",
-            "imgCss": "img",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.row",
-            "mainListIndex": 1,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "div.col-md-1-5 > div.movie-item",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "button.hdtag",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "src",
-            "imgCss": "img",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.row",
-            "mainListIndex": 1,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "div.col-md-1-5 > div.movie-item",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "video": {}
-        }
-      }
-    },
-    {
-      "name": "NFXHD(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
-      "type": "webPlug",
-      "subTitle": "",
-      "subMobileTitle": "",
-      "ads": "",
-      "webUrl": "https://nfxhd.com/",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "https://nfxhd.com/vodsearch/-------------/?wd={kw}&submit=",
-        "nav_url": "https://nfxhd.com/vodtype/navCate-navPage/",
-        "cate_url": "",
-        "web_name": "奈非",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
-        "navHtml": {
-          "name": [
-            "电影",
-            "美剧",
-            "日韩"
-          ],
-          "cate": [
-            "movie",
-            "tvplay",
-            "tvshow"
-          ],
-          "page": "1"
-        },
-        "cateHtml": {},
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "ul > li",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.myui-panel_bd.clearfix",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.pic-tag.pic-tag-top",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.pic-tag.pic-tag-top",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul#searchList",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "video": {}
-        }
-      }
-    },
-    {
-      "name": "爱迪(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "type": "webPlug",
-      "subTitle": "",
-      "subMobileTitle": "",
-      "ads": "",
-      "webUrl": "https://aidi.tv",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "https://aidi.tv/vsearch/-------------.html?wd={kw}",
-        "nav_url": "https://aidi.tv/show/navCate--------navPage---.html",
-        "cate_url": "",
-        "web_name": "爱迪影院",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
-        "navHtml": {
-          "name": [
-            "电影",
-            "连续剧",
-            "综艺",
-            "动漫"
-          ],
-          "cate": [
-            "dianying",
-            "lianxuju",
-            "zongyi",
-            "dongman"
-          ],
-          "page": "1"
-        },
-        "cateHtml": {
+       "cateHtml": {
           "isCate": false,
           "isYear": false,
           "isArea": false,
-          "cate": "",
-          "year": "",
-          "area": ""
+          "cate": "全部,&&动作,动作&&剧情,剧情&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&奇幻,奇幻&&历史,历史&&犯罪,犯罪&&动画,动画&&丧尸,丧尸&&幻想,幻想&&战争,战争&&暴力,暴力&&古装,古装&&武侠,武侠&&灾难,灾难",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
         },
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": true,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "li",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "ul.content_playlist.clearfix",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.pic_text.text_right",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": false,
-            "isUrlAttr": true,
-            "mainCss": "ul.vodlist.vodlist_wi",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 1,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.pic_text.text_right",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.vodlist.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "video": {
-          }
-        }
-      }
-    },
-    {
-      "name": "一只鱼(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "type": "webPlug",
-      "subTitle": "",
-      "subMobileTitle": "",
-      "ads": "",
-      "webUrl": "https://www.4kyu.cc",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "https://www.4kyu.cc/vodsearch/-------------.html?wd={kw}&submit=",
-        "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---.html",
-        "cate_url": "https://www.4kyu.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "一只鱼",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
-        "navHtml": {
-          "name": [
-            "全部",
-            "蓝光电影",
-            "蓝光纪录片",
-            "蓝光影视",
-            "蓝光港台",
-            "蓝光英美",
-            "蓝光日韩",
-            "蓝光动漫",
-            "蓝光综艺"
-          ],
-          "cate": [
-            "23",
-            "24",
-            "31",
-            "25",
-            "79",
-            "81",
-            "80",
-            "26",
-            "33"
-          ],
-          "page": "1"
-        },
-        "cateHtml": {},
         "html": {
           "episodes": {
             "hasUrlPrefix": false,
@@ -420,7 +58,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list.sort-list.clearfix",
+            "mainCss": "ul.myui-content__list.scrollbar.sort-list.clearfix",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -447,13 +85,13 @@
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
-            "isNameAttr": false,
+            "isNameAttr": true,
             "isUrlAttr": true,
             "mainCss": "ul.myui-vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
-            "nameIndex": 1,
+            "nameIndex": 0,
             "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
@@ -484,145 +122,60 @@
             "urlCss": "a",
             "urlIndex": 0
           },
-          "video": {}
-        }
-      }
-    },
-    {
-      "name": "9亿看看(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
-      "type": "webPlug",
-      "subTitle": "",
-      "subMobileTitle": "",
-      "ads": "",
-      "webUrl": "https://www.9ehao.com/",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "https://www.9ehao.com/vod/search.html?wd={kw}&submit=",
-        "nav_url": "https://www.9ehao.com/vodshow/navCate/page/navPage",
-        "cate_url": "https://9ehao.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
-        "web_name": "9亿看看",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
-        "navHtml": {
-          "name": [
-            "国语配音",
-            "热播电影",
-            "热播电视",
-            "热播美剧",
-            "国配外剧"
-          ],
-          "cate": [
-            "gypy",
-            "zuijinrebodianying",
-            "zuijinrebodianshiju",
-            "rebomeiju",
-            "guoyupeiyinhanju"
-          ],
-          "page": "1"
-        },
-        "cateHtml": {},
-        "html": {
-          "episodes": {
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
             "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "ul > li",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.tab-pane.fade.in.clearfix",
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
             "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.myui-vodlist.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
+            "nameAttr": "",
+            "nameCss": "",
             "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.pic-text.text-right",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul#searchList",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "video": {}
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
         }
       }
     },
-    {
-      "name": "555电影(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+        {
+      "name": "age动漫(自制)",
+      "pic": "https://uploadfile.bizhizu.cn/up/9c/98/7a/9c987af9bd000abedfbce172767fbc84.jpg",
+       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
-      "subTitle": "清晰1080P/4K最高60帧",
-      "subMobileTitle": "清晰1080P/4K最高60帧",
+      "subTitle": "高清有筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清有筛选",
       "ads": "",
-      "webUrl": "https://www.o8tv.com/",
+      "webUrl": "https://www.agefans.net/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.o8tv.com/index.php/vod/search.html?wd={kw}",
-        "nav_url": "https://www.o8tv.com/index.php/vod/show/id/navCate/page/navPage.html",
-        "cate_url": "",
-        "web_name": "555电影",
+        "search_url": "https://www.agefans.net/search?query={kw}",
+        "nav_url": "https://www.agefans.net/navCate?page=navPage",
+        "cate_url": "https://www.shenma4480.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "age动漫",
         "kw": "wd",
         "params": [
           {
@@ -632,274 +185,25 @@
         ],
         "navHtml": {
           "name": [
-            "蓝光电影",
-            "蓝光连续剧",
-            "蓝光动漫",
-            "蓝光综艺",
-            "电影精品推荐",
-            "全部电影",
-            "电视精品推荐",
-            "全部电视",
-            "热漫推荐",
-            "全部动漫",
-            "热门综艺",
-            "全部综艺"
+              "最近更新",
+              "每日推荐",
+              "在设置里点一下ljk解码"
           ],
           "cate": [
-            "106",
-            "107",
-            "108",
-            "109",
-            "79",
-            "1",
-            "88",
-            "2",
-            "94",
-            "4",
-            "90",
-            "3"
+              "update",
+              "recommend",
+              ""
           ],
           "page": "1"
         },
-        "cateHtml": {},
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": false,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "ul > li",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.hl-list-wrap",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.hl-lc-1.remarks",
-            "descIndex": 0,
-            "hasImgUrlPrefix": false,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.hl-vod-list.clearfix",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "span.hl-lc-1.remarks",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": false,
-            "imgAttr": "data-original",
-            "imgCss": "a",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "ul.hl-one-list",
-            "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "video": {}
-        }
-      }
-    },
-    {
-      "name": "长资源(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
-      "type": "webPlug",
-      "subTitle": "",
-      "subMobileTitle": "",
-      "ads": "",
-      "webUrl": "https://www.qianoo.cn/",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "https://www.qianoo.cn/?s={kw}",
-        "nav_url": "https://www.qianoo.cn/navCate/page/navPage",
-        "cate_url": "",
-        "web_name": "长资源",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
-        "navHtml": {
-          "name": [
-            "最新电影",
-            "电视剧",
-            "美剧",
-            "韩剧",
-            "动漫"
-          ],
-          "cate": [
-            "zuixindianying",
-            "dsj",
-            "meijutt",
-            "hanjutv",
-            "dm"
-          ],
-          "page": "1"
+       "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&动作,动作&&剧情,剧情&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&奇幻,奇幻&&历史,历史&&犯罪,犯罪&&动画,动画&&丧尸,丧尸&&幻想,幻想&&战争,战争&&暴力,暴力&&古装,古装&&武侠,武侠&&灾难,灾难",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
         },
-        "cateHtml": {},
-        "html": {
-          "episodes": {
-            "hasUrlPrefix": true,
-            "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
-            "listCss": "a",
-            "isMultiList": false,
-            "listCssMulti": "",
-            "listItemAttr": "href",
-            "listItemCss": "a",
-            "listItemIndex": 0,
-            "mainCss": "div.paly_list_btn",
-            "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
-          },
-          "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "div > span",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": true,
-            "imgAttr": "data-original",
-            "imgCss": "img",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.bt_img.mi_ne_kd.mrb > ul",
-            "mainListIndex": 0,
-            "nameAttr": "alt",
-            "nameCss": "img",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
-            "descCss": "div > span",
-            "descIndex": 0,
-            "hasImgUrlPrefix": true,
-            "hasUrlPrefix": true,
-            "imgAttr": "data-original",
-            "imgCss": "img",
-            "imgIndex": 0,
-            "isDescAttr": false,
-            "isImgAttr": true,
-            "isNameAttr": true,
-            "isUrlAttr": true,
-            "mainCss": "div.bt_img.mi_ne_kd.search_list > ul",
-            "mainListIndex": 0,
-            "nameAttr": "alt",
-            "nameCss": "img",
-            "nameIndex": 0,
-            "searchListCss": "li",
-            "urlAttr": "href",
-            "urlCss": "a",
-            "urlIndex": 0
-          },
-          "video": {}
-        }
-      }
-    },
-    {
-      "name": "宅看影视(规则)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "type": "webPlug",
-      "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
-      "ads": "",
-      "webUrl": "https://www.zhaikanys.com",
-      "webOpen": false,
-      "click": true,
-      "webPlus": {
-        "search_url": "https://www.zhaikanys.com/vodsearch/-------------.html?wd={kw}",
-        "nav_url": "https://www.zhaikanys.com/vodshow/navCate--------navPage---.html",
-        "cate_url": "https://www.zhaikanys.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "宅看影视",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
-        "navHtml": {
-          "name": [
-            "电影",
-            "电视剧",
-            "动漫",
-            "综艺"
-          ],
-          "cate": [
-            "1",
-            "2",
-            "4",
-            "3"
-          ],
-          "page": "1"
-        },
-        "cateHtml": {},
         "html": {
           "episodes": {
             "hasUrlPrefix": false,
@@ -912,7 +216,169 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.content_playlist.cf",
+            "mainCss": "div.movurl",
+            "mainIndex": 1,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.anime_icon1_name1",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "src",
+            "imgCss": "img.anime_icon2_img",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.ul_li_a6",
+            "mainListIndex": 0,
+            "nameAttr": "alt",
+            "nameCss": "img.anime_icon2_img",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 1
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.newname",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "src",
+            "imgCss": "img",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.blockcontent1",
+            "mainListIndex": 0,
+            "nameAttr": "alt",
+            "nameCss": "img",
+            "nameIndex": 0,
+            "searchListCss": "div.cell",
+            "urlAttr": "href",
+            "urlCss": "a.cell_imform_name",
+            "urlIndex": 0
+          },
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
+        }
+      }
+    },
+      {
+      "name": "妮可动漫(自制)",
+      "pic": "https://www.svdae.com/zb_users/upload/2020/03/20200308193830_76373.jpg",
+       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "webPlug",
+      "subTitle": "高清有筛选(菜单键或上下键选集)",
+      "subMobileTitle": "高清有筛选",
+      "ads": "",
+      "webUrl": "http://www.nicotv.me/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "http://www.nicotv.me/vod-search-wd-{kw}-p-1.html",
+        "nav_url": "http://www.nicotv.club/video/type3/-navCate-----addtime-navPage.html",
+        "cate_url": "https://www.shenma4480.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "web_name": "妮可动漫",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+              "全部",
+              "日本",
+              "大陆",
+              "美国",
+              "在设置里点一下ljk解码"
+          ],
+          "cate": [
+              "",
+              "%E6%97%A5%E6%9C%AC",
+              "%E5%A4%A7%E9%99%86",
+              "%E6%AC%A7%E7%BE%8E",
+              ""
+          ],
+          "page": "1"
+        },
+       "cateHtml": {
+          "isCate": false,
+          "isYear": false,
+          "isArea": false,
+          "cate": "全部,&&动作,动作&&剧情,剧情&&喜剧,喜剧&&爱情,爱情&&科幻,科幻&&惊悚,惊悚&&恐怖,恐怖&&悬疑,悬疑&&奇幻,奇幻&&历史,历史&&犯罪,犯罪&&动画,动画&&丧尸,丧尸&&幻想,幻想&&战争,战争&&暴力,暴力&&古装,古装&&武侠,武侠&&灾难,灾难",
+          "year": "全部,&&2020,2020&&2019,2019&&2018,2018&&2017,2017&&2016,2016&&2015,2015&&2014,2014&&2013,2013&&2012,2012&&2011,2011&&2010,2010&&2009,2009&&2008,2008&&更早,更早",
+          "area": "全部,&&大陆,大陆&&香港,香港&&台湾,台湾&&美国,美国&&法国,法国&&英国,英国&&日本,日本&&韩国,韩国&&印度,印度&&德国,德国&&泰国,泰国&&其他,其他"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "ul.list-unstyled.row.text-center.tab-pane.ff-playurl.ff-playurl-tab-1",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -930,194 +396,89 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "span.pack-prb",
+            "descCss": "span.continu",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
-            "imgCss": "a.aplus-exp > div.ec-jabj",
+            "imgCss": "img",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.hotgrow.eclist",
+            "mainCss": "ul.list-unstyled.vod-item-img.ff-img-215",
             "mainListIndex": 0,
             "nameAttr": "title",
-            "nameCss": "a.aplus-exp",
-            "nameIndex": 0,
-            "searchListCss": "div.pack-ykpack",
+            "nameCss": "a",
+            "nameIndex": 1,
+            "searchListCss": "li",
             "urlAttr": "href",
-            "urlCss": "a.aplus-exp",
-            "urlIndex": 0
+            "urlCss": "a",
+            "urlIndex": 1
           },
           "search": {
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "span.author",
+            "descCss": "span.continu",
             "descIndex": 0,
             "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
-            "imgCss": "a > div.ecimgbor",
+            "imgCss": "img",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.ec-search",
+            "mainCss": "ul.list-unstyled.vod-item-img.ff-img-215",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
-            "nameIndex": 0,
+            "nameIndex": 1,
             "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
-            "urlIndex": 0
+            "urlIndex": 1
           },
-          "video": {}
+          "video": {
+            "episodesListCss": "",
+            "episodesMainCss": "",
+            "episodesMainIndex": 0,
+            "hasEpisodes": false,
+            "hasUrlPrefix": false,
+            "iframeAttr": "src",
+            "iframeIndex": 0,
+            "isFrame": true,
+            "isFrameProcess": false,
+            "isItemAttr": false,
+            "isNameAttr": false,
+            "isReg": true,
+            "isUrlAttr": false,
+            "itemAttr": "",
+            "itemCss": "script",
+            "itemIndex": 2,
+            "mainCss": "body",
+            "mainIndex": 0,
+            "nameAttr": "",
+            "nameCss": "",
+            "nameIndex": 0,
+            "regIndex": 0,
+            "regStr": "(?<=<video src=\")(.*)(?=\" controls=)",
+            "title": "",
+            "urlAttr": "",
+            "urlCss": "",
+            "urlIndex": 0,
+            "videoCss": "",
+            "videoIndex": 1,
+            "isVideoUrlAttr": true,
+            "videoUrlAttr": "",
+            "isFromWebView": false,
+            "js": ""
+          }
         }
       }
-    },
-    {
-      "name": "百度搜索(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "webUrl": "https://www.baidu.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "腾讯视频(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-
-      "ads": "",
-      "webUrl": "https://v.qq.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "iqiyi(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-
-      "ads": "",
-      "webUrl": "https://www.iqiyi.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "优酷(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-
-      "ads": "",
-      "webUrl": "https://www.youku.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "哔哩哔哩(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-
-      "ads": "",
-      "webUrl": "https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "91美剧(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
-      "webUrl": "https://91mjw.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "大师兄(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://zz.ci/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "1090(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "weizhenwx,5588196_1622486217",
-      "webUrl": "http://1090ys2.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "cokemv(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://cokemv.cn/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "flvweb(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "http://www.flvweb.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "哆咪动漫(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "weizhenwx,5588196_1622486217",
-      "webUrl": "http://www.dmdm2020.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "真不卡(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "weizhenwx,5588196_1622486217",
-      "webUrl": "https://bukaivip.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "嘀哩影视(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "http://diliktv.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "TV云播(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "onenews",
-      "webUrl": "http://www.tvyb02.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "一只鱼(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://www.4kyu.cc",
-      "webOpen": true,
-      "click": true
     }
   ]
 }
