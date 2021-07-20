@@ -172,8 +172,8 @@
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.agefans.net/search?query={kw}",
-        "nav_url": "https://www.agefans.net/navCate?page=navPage",
+        "search_url": "https://www.agefans.cc/search?query={kw}",
+        "nav_url": "https://www.agefans.cc/navCate?page=navPage",
         "cate_url": "https://www.shenma4480.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "age动漫",
         "kw": "wd",
